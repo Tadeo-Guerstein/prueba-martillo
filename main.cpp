@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     cout << "Aguante Boca!!!" ;
     int respuesta;
-    cout<<"Hola mundo!";
+    cout<<"Hola mundo!2";
     respuesta = 34 * 45;
     cout<<"Hol";
     cout<<"estoy enfermo por favor deme un gato";
