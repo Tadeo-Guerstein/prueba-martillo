@@ -7,8 +7,9 @@ int main() {
     int respuesta;
     cout<<"Hola mundo!";
     respuesta = 34 * 45;
-    cout<<"Hola";
+    cout<<"Hol";
     cout<<"estoy enfermo por favor deme un gato";
+    cout<<"Hola Mundo 2";
     cout << respuesta;
     return 0;
 }
