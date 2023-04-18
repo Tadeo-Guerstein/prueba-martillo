@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+    cout << "Aguante Boca!!!" ;
     int respuesta;
     cout<<"Hola mundo!";
     respuesta = 34 * 45;
