@@ -32,6 +32,7 @@ cout << "Mi mango es de: " << materialDelMango << endl;
 cout << "Mi cabeza es de: " << materialDeCabeza << endl;
 cout << "Mi numero de serie es: " << numeroDeSerie << endl;
 cout << "Estoy martillando" << endl;
+cout << "Y golpeando la madera" << endl;
 }
 };
 int main()
